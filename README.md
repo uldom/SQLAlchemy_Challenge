@@ -6,14 +6,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     </head>
 <body>
-    
+<h1>Climate Analysis and Exploration</h1> 
+<br>
+<p>Use Python and SQLAlchemy to do basic climate analysis and data exploration of the climate database of Honolulu, Hawaii</p>
 </body>
 </html>
 
-
-# SQLAlchemy_Challenge
-SQLAlchemy Homework - Surfs Up!
-
-Climate Analysis and Exploration
-
-Use Python and SQLAlchemy to do basic climate analysis and data exploration of the climate database of Honolulu, Hawaii
