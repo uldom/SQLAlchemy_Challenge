@@ -42,12 +42,13 @@
 <br>
 <img src="https://github.com/uldom/SQLAlchemy_Challenge/blob/main/Images/Daily_Normals_DF.png">
 <br>
-
-
-
-
-
-
+<h2>Is there a meaningful difference between the temperature in, for example, June and December?</h2>
+<p>The following plot shows the average temperatures for June and December at all stations across all available years in the dataset.</p>
+<p>According to the calculated p-value, the difference in the temperature means is not statistically significant.</p>
+<br>
+<img src="https://github.com/uldom/SQLAlchemy_Challenge/blob/main/Images/Jun_Dec_Temp.png">
+<br>
+<img src="https://github.com/uldom/SQLAlchemy_Challenge/blob/main/Images/ttest_pvalue.png">
 </body>
 </html>
 
