@@ -27,7 +27,6 @@
 <img src="https://github.com/uldom/SQLAlchemy_Challenge/blob/main/Images/Temp_stats_for_station_USC00519281.png">
 <br>
 <h2>Temperature Analysis</h2>
-<br>
 <h3>Trip from 06.August.2017 to 14.August.2017</h3>
 <br>
 <p>The following images show the minimum, the average and the maximum temperature for the choosen dates for a trip.</p>
@@ -36,7 +35,12 @@
 <br>
 <img src="https://github.com/uldom/SQLAlchemy_Challenge/blob/main/Images/Trip_Avg_Temp_DF.png">
 <br>
-
+<p>The following images show the daily normals for the same dates for a trip.</p>
+<br>
+<img src="https://github.com/uldom/SQLAlchemy_Challenge/blob/main/Images/Daily_Normals_Aug_2017.png">
+<br>
+<img src="https://github.com/uldom/SQLAlchemy_Challenge/blob/main/Images/Daily_Normals_DF.png">
+<br>
 
 
 
