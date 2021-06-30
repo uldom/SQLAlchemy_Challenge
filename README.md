@@ -19,8 +19,13 @@
 <p>This graph shows the precipitation data in Honolulu, Hawaii from 24.August.2016 to 23.August.2017</p>
 <br>
 <img src="https://github.com/uldom/SQLAlchemy_Challenge/blob/main/Images/Precipitation_Graph.png">
-
-
+<br>
+<p>This histogram shows the temperature observations for weather station USC00519281 in Honolulu, Hawaii from 24.August.2016 to 23.August.2017</p>
+<br>
+<img src="https://github.com/uldom/SQLAlchemy_Challenge/blob/main/Images/Temperature_Histogram.png">
+<br>
+<img src="https://github.com/uldom/SQLAlchemy_Challenge/blob/main/Images/Temp_stats_for_station_USC00519281.png">
+<br>
 
 
 
