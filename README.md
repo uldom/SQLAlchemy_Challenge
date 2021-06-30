@@ -14,8 +14,11 @@
     <li>Measurement. This table contains data for precipitation, weather stations, temperature observations and dates.</li>
     <li>Station. This table contains data for station id, elevation, name, longitude and latitude.</li>
 </ol>
-
-
+<h2>Precipitation Analysis</h2>
+<br>
+<p>This graph shows the precipitation data in Honolulu, Hawaii from 24.August.2016 to 23.August.2017</p>
+<br>
+<img src="https://github.com/uldom/SQLAlchemy_Challenge/blob/main/Images/Precipitation_Graph.png">
 
 
 
