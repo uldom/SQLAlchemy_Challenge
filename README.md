@@ -20,6 +20,7 @@
 <br>
 <img src="https://github.com/uldom/SQLAlchemy_Challenge/blob/main/Images/Precipitation_Graph.png">
 <br>
+<h2>Station Analysis</h2>
 <p>This histogram shows the temperature observations for weather station USC00519281 in Honolulu, Hawaii from 24.August.2016 to 23.August.2017</p>
 <br>
 <img src="https://github.com/uldom/SQLAlchemy_Challenge/blob/main/Images/Temperature_Histogram.png">
@@ -35,7 +36,7 @@
 <br>
 <img src="https://github.com/uldom/SQLAlchemy_Challenge/blob/main/Images/Trip_Avg_Temp_DF.png">
 <br>
-<p>The following images show the daily normals for the same dates for a trip.</p>
+<p>The following images show the daily normals for the same trip.</p>
 <br>
 <img src="https://github.com/uldom/SQLAlchemy_Challenge/blob/main/Images/Daily_Normals_Aug_2017.png">
 <br>
